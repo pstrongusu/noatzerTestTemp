@@ -1,0 +1,19 @@
+{
+  "settings": {
+    "survey": {
+      "loop_closure_warning_threshold_m": 0.003,
+      "monument_delta_warning_threshold_m": 0.003,
+      "default_rod_uncertainty_m": 0.003,
+      "default_wetted_uncertainty_m": 0.003,
+      "default_rod_units": "m"
+    },
+    "coordinates": {
+      "default_coordinate_system": "UTM12N_NAD83",
+      "default_datum": "NAVD88"
+    },
+    "sync": {
+      "prompt_if_stale_hours": 24
+    }
+  },
+  "git_remote_url": "https://github.com/pstrongusu/noatzerTestTemp"
+}

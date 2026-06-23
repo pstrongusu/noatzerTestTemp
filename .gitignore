@@ -1,0 +1,4 @@
+*.db
+*.db-journal
+Thumbs.db
+.DS_Store

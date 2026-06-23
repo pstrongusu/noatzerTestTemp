@@ -1,0 +1,18 @@
+{
+  "sites": [
+    {
+      "site_code": "test site",
+      "name": "test site number 1",
+      "sampling_feature_type": "site",
+      "description": null,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "elevation_m": 0.0,
+      "established": null,
+      "access": null,
+      "sampling_features": [],
+      "contacts": [],
+      "site_notes": []
+    }
+  ]
+}
