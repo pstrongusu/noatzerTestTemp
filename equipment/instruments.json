@@ -1,0 +1,13 @@
+{
+  "instruments": [
+    {
+      "instrument_id": "RS5-007",
+      "category": "Flow Sensors",
+      "type": "adcp",
+      "status": "lab",
+      "manufacturer": "SonTek",
+      "model": "RS5",
+      "serial_number": "007"
+    }
+  ]
+}
